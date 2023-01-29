@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungyao)](https://github.com/tungyao)
+[![Anurag's GitHub stats](https://readme2-rho.vercel.app/api?username=tungyao)](https://github.com/tungyao)
